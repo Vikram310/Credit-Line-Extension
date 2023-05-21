@@ -12,4 +12,4 @@ Company deploys formal credit to salaried individuals and businesses in 4 main f
 
 This case study will focus on the underwriting process behind Personal Loan only. Given a set of attributes for an Individual, determine if a credit line should be extended to them.
 
-Skills used: Binary Classification using Logistic Regression, Random Forest, Gradient Boosting
+**Skills used**: Binary Classification using Logistic Regression, Random Forest, Gradient Boosting
